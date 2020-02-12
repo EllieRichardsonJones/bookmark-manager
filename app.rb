@@ -11,4 +11,3 @@ class App < Sinatra::Base
     erb :bookmarks
   end
 end
- 
